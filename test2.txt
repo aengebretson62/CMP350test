@@ -1,1 +1,1 @@
-This is a second file that I am changing.
+This is a second file that I am changing in the Visual Studio IDE.
